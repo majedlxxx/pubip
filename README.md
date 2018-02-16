@@ -10,5 +10,8 @@ su
 
 To run the script:
 pubip
+To remove the unnecessary file:
+su
+rm -r pubip
 
 This program depends on start.parrotsec.org if this website goes down the program will not work.
