@@ -1,0 +1,4 @@
+#!/bin/bash
+cd
+cd publicIp
+python3 pubip.py
